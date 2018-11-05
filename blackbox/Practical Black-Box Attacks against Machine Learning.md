@@ -19,5 +19,5 @@ Key issues:
   + hyperparameters(e.g. # layers, # neurons) have relatively low impact on the success of the attack
   + But why?
 + How to generate the synthetic dataset?
-  + 
+  + manually find some images that might appear in the training dataset of target model 
 + Make # queries as small as possible.
